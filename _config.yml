@@ -131,7 +131,7 @@ assets:
   cdn:
     baseurl: 
     destination: false
-    url: zerog
+    url: "https://zerog.github.io"
   # --
   # See lib/jekyll/assets/config.rb
   #   for a list of defaults
